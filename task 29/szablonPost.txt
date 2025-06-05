@@ -1,0 +1,6 @@
+Post użytkownika:
+{FirstName} {LastName}
+
+Polubienia: {Likes}
+
+{Text}
